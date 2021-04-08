@@ -1,0 +1,44 @@
+.Sidebar-Layout {
+    flex: 0 1 230px;
+}
+
+.Sidebar {
+    width: 230px;
+}
+
+.Sidebar-Nav {
+    flex-direction: column;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.SideNavBar-Wrapper {
+    margin-bottom: 8px;
+}
+
+.SideNavBar-Box {
+    flex-grow: 1;
+}
+
+.SideNavBarOption {
+    margin-bottom: 8px;
+}
+
+.SideNavBarOption-Anchor {
+    width: 100%;
+}
+
+.SideNavBarOption-Anchor-Inbox {
+    background-color: #f2f4f5;
+    flex-grow: 1;
+}
+
+.SideNavBarOption-Anchor-Inbox-Icon {
+    fill: #555d61;
+    stroke: transparent;
+}
+
+.SideNavBarOption-Anchor-Inbox-Label {
+    flex-grow: 1;
+    color: #1c242b;
+}

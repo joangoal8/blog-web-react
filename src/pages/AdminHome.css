@@ -1,0 +1,12 @@
+.Admin-Home-Layout {
+    display: flex;
+    width: 1240px;
+    flex: 1 0 auto;
+    margin: 0 auto;
+    padding: 30px 0;
+    align-content: stretch;
+    flex-direction: row;
+    transition: width .5s ease-in-out;
+    animation: fadein___ABwQz 1s;
+}
+
